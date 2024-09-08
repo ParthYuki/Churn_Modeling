@@ -62,10 +62,10 @@ Install the required Python packages using the following command:
 pip install pandas numpy scikit-learn imbalanced-learn tensorflow
 ```
 4. **Open the Jupyter Notebook**
-Open the Churn_Modeling.ipynb notebook file in Jupyter or any compatible environment:
+Open the Churn_modeling.ipynb notebook file in Jupyter or any compatible environment:
 
 ```bash
-jupyter notebook Practical - 6.ipynb
+jupyter notebook Churn_modeling.ipynb
 ```
 5. **Run All Cells**
 Execute all the cells in the notebook to preprocess the data, train the model, and evaluate its performance.
@@ -90,5 +90,5 @@ The model achieved the following performance on the test dataset:
 • **Accuracy**: Approximately 0.84  
 • **Precision, Recall, F1-Score**: Detailed metrics available in the classification report.  
 ## Files in This Repository
-• **dataset.csv**: The dataset used for training and evaluating the model.  
-• **Churn_Modeling.ipynb**: Jupyter Notebook containing the code for data processing, model training, and evaluation.
+• **Churn_Modelling.csv**: The dataset used for training and evaluating the model.  
+• **Churn_modeling.ipynb**: Jupyter Notebook containing the code for data processing, model training, and evaluation.
